@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Router-Movies/static/css/main.b6bf4a22.chunk.css",
+    "main.js": "/React-Router-Movies/static/js/main.bc89600f.chunk.js",
+    "main.js.map": "/React-Router-Movies/static/js/main.bc89600f.chunk.js.map",
+    "runtime-main.js": "/React-Router-Movies/static/js/runtime-main.a86cb4de.js",
+    "runtime-main.js.map": "/React-Router-Movies/static/js/runtime-main.a86cb4de.js.map",
+    "static/js/2.61bbe72d.chunk.js": "/React-Router-Movies/static/js/2.61bbe72d.chunk.js",
+    "static/js/2.61bbe72d.chunk.js.map": "/React-Router-Movies/static/js/2.61bbe72d.chunk.js.map",
+    "index.html": "/React-Router-Movies/index.html",
+    "precache-manifest.d553e58e74417028118441c87096680c.js": "/React-Router-Movies/precache-manifest.d553e58e74417028118441c87096680c.js",
+    "service-worker.js": "/React-Router-Movies/service-worker.js",
+    "static/css/main.b6bf4a22.chunk.css.map": "/React-Router-Movies/static/css/main.b6bf4a22.chunk.css.map"
+  }
+}
